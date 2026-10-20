@@ -11,6 +11,6 @@ Xin chào mọi người! Mình tên là Hải, hiện đang là sinh viên ngà
 
 ## Thông tin liên hệ
 - **Email:** [Tranduchoanghai2007@gmail.com](mailto:Tranduchoanghai2007@gmail.com)
-- **Facebook:** [Facebook cá nhân của tôi](https://www.facebook.com/tdhh2617)
-- **GitHub:** [GitHub Profile](https://github.com/tranduchoanghai2007-creator)
+- **Facebook:** [Trần Hải](https://www.facebook.com/tdhh2617)
+- **GitHub:** [tranduchoanghai2007](https://github.com/tranduchoanghai2007-creator)
 > "Học, học nữa, học mãi - Không có việc gì khó, chỉ sợ lòng không bền."
