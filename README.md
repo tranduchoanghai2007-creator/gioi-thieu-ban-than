@@ -10,8 +10,7 @@ Xin chào mọi người! Mình tên là Hải, hiện đang là sinh viên ngà
 - Chạy bộ và đá bóng vào cuối tuần
 
 ## Thông tin liên hệ
-- **Email:** [tran.duc.hoang.hai@gmail.com](mailto:tranduchoanghai2007@.com)
-- **Facebook:** [Facebook cá nhân của tôi]([https://facebook.com](https://www.facebook.com/tdhh2617))
+- **Email:** [Tranduchoanghai2007@gmail.com](mailto:Tranduchoanghai2007@gmail.com)
+- **Facebook:** [Facebook cá nhân của tôi](https://www.facebook.com/tdhh2617)
 - **GitHub:** [GitHub Profile](https://github.com/tranduchoanghai2007-creator)
-
 > "Học, học nữa, học mãi - Không có việc gì khó, chỉ sợ lòng không bền."
