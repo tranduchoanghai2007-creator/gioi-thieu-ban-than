@@ -1,6 +1,7 @@
 # Trần Đức Hoàng Hải
 
-![Ảnh đại diện](https://avatars.githubusercontent.com/u/tranduchoanghai2007-creator?v=4)
+![Ảnh đại diện](<img width="2048" height="2048" alt="avatar" src="https://github.com/user-attachments/assets/a14bc7e9-9c70-4983-9abf-9d87eca0a531" />
+)
 
 ## Giới thiệu bản thân
 Xin chào mọi người! Mình tên là Hải, hiện đang là sinh viên ngành Công nghệ Phần mềm tại Trường Đại học Sư phạm, Đại học Huế. Mình rất thích học hỏi về lập trình và khám phá các công nghệ mới.
