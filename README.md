@@ -2,7 +2,7 @@
 
 ![Ảnh đại diện](https://github.com/user-attachments/assets/a14bc7e9-9c70-4983-9abf-9d87eca0a531)
 ## Giới thiệu bản thân
-Xin chào mọi người! Mình tên là Hải, hiện đang là sinh viên ngành Công nghệ Phần mềm tại Trường Đại học Sư phạm, Đại học Huế. Mình rất thích học hỏi về lập trình và khám phá các công nghệ mới.
+Xin chào mọi người! Mình tên là Hải, hiện đang là sinh viên ngành Hệ thống thông tin tại Trường Đại học Sư phạm, Đại học Huế. Mình rất thích học hỏi về lập trình và khám phá các công nghệ mới.
 
 ## Sở thích cá nhân
 - Đọc sách công nghệ và tiểu thuyết
